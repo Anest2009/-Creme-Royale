@@ -6,7 +6,7 @@ const CartModal: React.FC = () => {
   const { 
     items, 
     isCartOpen, 
-    setIsCartOpe, 
+    setIsCartOpen, 
     updateQuantity, 
     removeFromCart,
     totalItems,
